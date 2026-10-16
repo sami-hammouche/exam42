@@ -1,0 +1,5 @@
+{
+  "name": "ft_putchar",
+  "files": ["ft_putchar.c"],
+  "type": "function"
+}

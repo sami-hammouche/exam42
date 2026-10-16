@@ -1,0 +1,15 @@
+=============================================
+Exercice : ft_putchar
+Fichier  : ft_putchar.c
+=============================================
+
+Écrire une fonction qui affiche le caractère passé en paramètre
+sur la sortie standard.
+
+Tu dois utiliser write() et rien d'autre.
+
+Prototype : void    ft_putchar(char c);
+
+Exemple :
+  ft_putchar('H');  ->  H
+  ft_putchar('\n'); ->  (nouvelle ligne)
