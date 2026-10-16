@@ -1,0 +1,5 @@
+{
+  "name": "ft_print_alphabet",
+  "files": ["ft_print_alphabet.c"],
+  "type": "function"
+}
