@@ -1,0 +1,14 @@
+=============================================
+Exercice : ft_print_numbers
+Fichier  : ft_print_numbers.c
+=============================================
+
+Écrire une fonction qui affiche les chiffres de 0 à 9,
+sur une seule ligne, dans l'ordre croissant.
+
+Tu dois utiliser write() et rien d'autre.
+
+Prototype : void    ft_print_numbers(void);
+
+Sortie attendue :
+  0123456789

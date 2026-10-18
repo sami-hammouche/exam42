@@ -1,0 +1,5 @@
+{
+  "name": "ft_print_numbers",
+  "files": ["ft_print_numbers.c"],
+  "type": "function"
+}
