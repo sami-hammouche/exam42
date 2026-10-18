@@ -1,0 +1,14 @@
+=============================================
+Exercice : ft_print_reverse_alphabet
+Fichier  : ft_print_reverse_alphabet.c
+=============================================
+
+Écrire une fonction qui affiche l'alphabet en minuscules,
+sur une seule ligne, dans l'ordre décroissant.
+
+Tu dois utiliser write() et rien d'autre.
+
+Prototype : void    ft_print_reverse_alphabet(void);
+
+Sortie attendue :
+  zyxwvutsrqponmlkjihgfedcba

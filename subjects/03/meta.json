@@ -1,0 +1,5 @@
+{
+  "name": "ft_print_reverse_alphabet",
+  "files": ["ft_print_reverse_alphabet.c"],
+  "type": "function"
+}
