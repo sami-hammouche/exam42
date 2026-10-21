@@ -1,0 +1,5 @@
+{
+  "name": "ft_is_negative",
+  "files": ["ft_is_negative.c"],
+  "type": "function"
+}

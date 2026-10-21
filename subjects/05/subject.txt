@@ -1,0 +1,16 @@
+=============================================
+Exercice : ft_is_negative
+Fichier  : ft_is_negative.c
+=============================================
+
+Écrire une fonction qui affiche 'N' suivi d'un '\n' si le nombre
+passé en paramètre est négatif, sinon affiche 'P' suivi d'un '\n'.
+
+Tu dois utiliser write() et rien d'autre.
+
+Prototype : void    ft_is_negative(int n);
+
+Exemples :
+  ft_is_negative(-1);  ->  N
+  ft_is_negative(0);   ->  P
+  ft_is_negative(42);  ->  P
