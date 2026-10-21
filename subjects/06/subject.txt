@@ -1,0 +1,14 @@
+=============================================
+Exercice : ft_strlen
+Fichier  : ft_strlen.c
+=============================================
+
+Écrire une fonction qui retourne la longueur d'une chaîne de
+caractères, sans utiliser les fonctions de la librairie standard.
+
+Prototype : int     ft_strlen(char *str);
+
+Exemples :
+  ft_strlen("Hello")  ->  5
+  ft_strlen("")       ->  0
+  ft_strlen("42")     ->  2
