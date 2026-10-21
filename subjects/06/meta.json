@@ -1,0 +1,5 @@
+{
+  "name": "ft_strlen",
+  "files": ["ft_strlen.c"],
+  "type": "function"
+}
