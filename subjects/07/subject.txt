@@ -1,0 +1,15 @@
+=============================================
+Exercice : ft_putstr
+Fichier  : ft_putstr.c
+=============================================
+
+Écrire une fonction qui affiche la chaîne de caractères passée
+en paramètre sur la sortie standard.
+
+Tu dois utiliser write() et rien d'autre.
+
+Prototype : void    ft_putstr(char *str);
+
+Exemples :
+  ft_putstr("Hello\n");   ->  Hello
+  ft_putstr("42\n");      ->  42
