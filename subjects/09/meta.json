@@ -1,0 +1,5 @@
+{
+  "name": "ft_putnbr",
+  "files": ["ft_putnbr.c"],
+  "type": "function"
+}
