@@ -1,0 +1,15 @@
+=============================================
+Exercice : ft_swap
+Fichier  : ft_swap.c
+=============================================
+
+Écrire une fonction qui échange le contenu de deux entiers
+dont les adresses sont passées en paramètre.
+
+Prototype : void    ft_swap(int *a, int *b);
+
+Exemple :
+  int a = 10;
+  int b = 20;
+  ft_swap(&a, &b);
+  -> a vaut maintenant 20, b vaut maintenant 10
