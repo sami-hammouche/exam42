@@ -1,0 +1,17 @@
+=============================================
+Exercice : ft_putnbr
+Fichier  : ft_putnbr.c
+=============================================
+
+Écrire une fonction qui affiche un entier passé en paramètre.
+La fonction doit gérer les nombres négatifs et le cas INT_MIN.
+
+Tu dois utiliser write() et rien d'autre.
+
+Prototype : void    ft_putnbr(int nb);
+
+Exemples :
+  ft_putnbr(42);           ->  42
+  ft_putnbr(-42);          ->  -42
+  ft_putnbr(0);            ->  0
+  ft_putnbr(-2147483648);  ->  -2147483648
