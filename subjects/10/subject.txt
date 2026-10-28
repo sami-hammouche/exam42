@@ -1,0 +1,18 @@
+=============================================
+Exercice : ft_recursive_factorial
+Fichier  : ft_recursive_factorial.c
+=============================================
+
+Écrire une fonction récursive qui retourne la factorielle
+d'un nombre passé en paramètre.
+
+Si le paramètre est négatif ou invalide, la fonction retourne 0.
+
+Prototype : int     ft_recursive_factorial(int nb);
+
+Exemples :
+  ft_recursive_factorial(0)   ->  1
+  ft_recursive_factorial(1)   ->  1
+  ft_recursive_factorial(5)   ->  120
+  ft_recursive_factorial(10)  ->  3628800
+  ft_recursive_factorial(-1)  ->  0
