@@ -1,0 +1,5 @@
+{
+  "name": "ft_swap",
+  "files": ["ft_swap.c"],
+  "type": "function"
+}
